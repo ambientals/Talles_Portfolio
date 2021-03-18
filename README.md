@@ -5,4 +5,4 @@ Currently, only my coding practices are linked below. Undertaken projects using 
 <br>
 
 ## <a href="https://github.com/ambientals/data-coding-repository/blob/master/README.md"><strong>Coding</strong></a> 
-Code applied on practical problems, theoretical training and programming concepts.
+Code applied to practical problems and programming concepts.
