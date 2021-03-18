@@ -1,7 +1,7 @@
 # Talles' Portfolio
 Welcome to where I showcase my data analytics and data engineering expertise. <br>
 Currently, only <strong>coding practices</strong> are linked below. <strong>Undertaken projects</strong> using tools such as Power BI, qGIS, Excel and others <strong>will be uploaded soon!</strong> <br>
-Let's contact on LinkedIn: <a href="linkedin.com/in/talles-di-cunto">/talles-di-cunto</a>
+<em>Let's contact on <strong>LinkedIn: <a href="linkedin.com/in/talles-di-cunto">/talles-di-cunto</a></strong></em>
 <br>
 <br>
 ## <a href="https://github.com/ambientals/data-coding-repository/blob/master/README.md"><strong>Coding - practical problems and programming practice</strong></a> <br>
