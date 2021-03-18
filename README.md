@@ -9,5 +9,6 @@ Currently, only <strong>coding practices</strong> are linked below. <strong>Unde
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/func_is_palindrome.py">Palindrome checker</a>;
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/func_sum.py">Summation calculator</a>;
 * <a href="https://github.com/ambientals/data-analysis-portfolio/blob/master/example_list_creation.py">Input-fed list building</a>; 
+
 <br>
 <em>Let's contact on <strong>LinkedIn: <a href="https://www.linkedin.com/in/talles-di-cunto/">talles-di-cunto</a></strong></em>
