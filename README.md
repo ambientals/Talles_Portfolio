@@ -1,6 +1,6 @@
 # Talles' Portfolio
 Welcome to where I showcase my data analytics and data engineering expertise. <br>
-Currently, only <strong>coding practices</strong> are linked below. <strong>Undertaken projects</strong> using tools such as Power BI, qGIS, Excel and others <strong>will be uploaded soon!</strong>
+Currently, only <strong>coding practices</strong> are linked below. <strong>Undertaken projects</strong> using tools such as Power BI, qGIS, Excel and others <strong>will be uploaded soon!</strong> <br>
 Let's contact on <a href"inkedin.com/in/talles-di-cunto/">LinkedIn</a>
 <br>
 <br>
