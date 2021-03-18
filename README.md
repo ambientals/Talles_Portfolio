@@ -5,4 +5,5 @@ Currently, only my coding practices are linked below. Undertaken projects using 
 <br>
 
 ## <a href="https://github.com/ambientals/data-coding-repository/blob/master/README.md"><strong>Coding</strong></a> 
-Code applied to practical problems and programming concepts.
+Code applied to practical problems and programming concepts. <br>
+<strong>Examples:</strong> SSH remote connection to Windows or Linux, palindrome checker, input-fed list building
