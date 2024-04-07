@@ -1,4 +1,4 @@
-Welcome to the place where I showcase my data expertise. <br>
+Welcome to my portfolio. <br>
 Currently, only <strong>coding practices</strong> are linked below. <strong>Undertaken projects</strong> using tools such as Power BI, qGIS, Excel and others <strong>will be uploaded soon!</strong>
 
 <hr>
